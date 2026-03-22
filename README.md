@@ -26,12 +26,6 @@ I'm a passionate **software developer, DevOps enthusiast, and entrepreneur**. My
 - 🤖 **MLOps & AI Integration** – Bridging the gap between ML models and production environments.
 - 🚀 **Entrepreneurship** – Founding an IT company specializing in Engineering product development and innovation.
 
-##  My Goals
-- Master **full-stack development** and **cloud infrastructure**.
-- Build a **collaboration platform** like Slack or Microsoft Teams.
-- Establish a successful **IT business**.
-- Achieve **financial independence by 30**.
-
 ##  What I'm Learning
 - **Terraform, Kubernetes, and Docker** for DevOps automation.
 - **Python for automation testing** and backend development.
